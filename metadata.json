@@ -1,0 +1,6 @@
+{
+  "name": "Indo Kreasi — Pixel World",
+  "description": "Official company profile for PT Indo Kreasi, an independent game development studio creating original pixel-art and voxel sandbox worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
